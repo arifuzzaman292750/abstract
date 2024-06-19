@@ -1,6 +1,6 @@
 abstract class Father{
 
-  // hio
+  // baper taka
   BaperTaka(){
     print("Toatl taka= 80000000");
   }
